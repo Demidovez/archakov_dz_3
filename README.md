@@ -1,6 +1,4 @@
-# ДЕМО
-
-https://codesandbox.io/s/rough-brook-86fed
+## ДЕМО https://codesandbox.io/s/rough-brook-86fed
 
 # 📝 Домашнее задание
 
